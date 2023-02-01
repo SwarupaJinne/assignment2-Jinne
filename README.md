@@ -6,6 +6,12 @@ The game of Kabaddi calls for a lot of physical inputs including traits like __g
 
 -------------------------------
 # Favorite team:  Bengaluru Bulls
-1. Vikas Kandola
-2. Mahender Singh 
-3. Rohit Kumar
+1. Three best players on the team:
+   1. Vikas Kandola
+   2. Mahender Singh 
+   3. Rohit Kumar
+
+* Teams those are good to watch:
+  * Dabang Delhi
+  * Tamil Thalaivas
+  * Telugu Titans
