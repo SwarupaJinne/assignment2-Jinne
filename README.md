@@ -41,3 +41,28 @@ I am creating a table with 4 countries that I would I would recommend someone to
 
 > “My mother always used to say: The older you get, the better you get, unless you’re a banana.”  *-Rose*
 
+-------------------------
+  
+# HTML Code Fencing 
+> button vs. input type button, Which to use?
+[Question](https://stackoverflow.com/questions/469059/button-vs-input-type-button-which-to-use)
+  
+
+  
+  
+  
+  ```
+<button>
+  Some
+  <br>
+  Text
+</button>
+  
+<input type="button" value="Really&#x00A;Tall&#x00A;Button">
+	
+```
+  
+	
+[Snippet Source](https://css-tricks.com/snippets/html/button-with-line-breaks/)
+  
+
