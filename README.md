@@ -21,7 +21,7 @@ The game of Kabaddi calls for a lot of physical inputs including traits like __g
   
   -------------------------------
   
-  # 4 countries I would recommend someone to visit 
+# 4 countries I would recommend someone to visit 
 I am creating a table with 4 countries that I would I would recommend someone to visit are Italy, Australia , Switzerland , France.
 
 |Name of the country |Reason to recommend(why to go) | duration(days to visit)|
@@ -30,3 +30,14 @@ I am creating a table with 4 countries that I would I would recommend someone to
 |Australia|Nature and Wildlife |15 |
 |Switzerland|Matterhorn mountain|25 |
 |France|Explore beaches, mountains |20 |
+
+-------------------------------------
+
+# Funny Quotes:
+
+> “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."  *-Mitch Hedberg*
+
+<Br>
+
+> “My mother always used to say: The older you get, the better you get, unless you’re a banana.”  *-Rose*
+
