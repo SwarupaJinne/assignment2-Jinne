@@ -18,3 +18,15 @@ The game of Kabaddi calls for a lot of physical inputs including traits like __g
   
   
   *[Click Here to know AboutMe](https://github.com/SwarupaJinne/assignment2-Jinne/blob/main/AboutMe.md)*
+  
+  -------------------------------
+  
+  # 4 countries I would recommend someone to visit 
+I am creating a table with 4 countries that I would I would recommend someone to visit are Italy, Australia , Switzerland , France.
+
+|Name of the country |Reason to recommend(why to go) | duration(days to visit)|
+|---|---|---|
+|Italy|Italian food |10 |
+|Australia|Nature and Wildlife |15 |
+|Switzerland|Matterhorn mountain|25 |
+|France|Explore beaches, mountains |20 |
