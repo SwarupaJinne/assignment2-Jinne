@@ -15,3 +15,6 @@ The game of Kabaddi calls for a lot of physical inputs including traits like __g
   * Dabang Delhi
   * Tamil Thalaivas
   * Telugu Titans
+  
+  
+  *[Click Here to know AboutMe](https://github.com/SwarupaJinne/assignment2-Jinne/blob/main/AboutMe.md)*
